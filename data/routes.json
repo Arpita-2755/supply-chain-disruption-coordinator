@@ -1,0 +1,11 @@
+{
+  "_about": "Inbound shipping lanes into each warehouse, with the latest carrier status feed (status, current_delay_days).",
+  "routes": {
+    "RT-01": {"origin": "Chennai Port", "destination": "WH-DEL", "mode": "road", "carrier": "SwiftHaul Logistics", "transit_days": 4, "cost_per_shipment": 900, "cost_per_unit": 1.5, "status": "open", "current_delay_days": 0},
+    "RT-02": {"origin": "Chennai Port", "destination": "WH-BLR", "mode": "road", "carrier": "SwiftHaul Logistics", "transit_days": 1, "cost_per_shipment": 350, "cost_per_unit": 0.5, "status": "open", "current_delay_days": 0},
+    "RT-03": {"origin": "Bengaluru Hub", "destination": "WH-KOL", "mode": "road (NH-16 coastal)", "carrier": "SwiftHaul Logistics", "transit_days": 3, "cost_per_shipment": 700, "cost_per_unit": 1.0, "status": "blocked", "current_delay_days": 8},
+    "RT-04": {"origin": "Bengaluru Hub", "destination": "WH-KOL", "mode": "air", "carrier": "BlueDart Air Cargo", "transit_days": 1, "cost_per_shipment": 2400, "cost_per_unit": 3.0, "status": "open", "current_delay_days": 0},
+    "RT-05": {"origin": "Pune Hub", "destination": "WH-MUM", "mode": "road (NH-48)", "carrier": "Western Roadways", "transit_days": 1, "cost_per_shipment": 300, "cost_per_unit": 0.5, "status": "blocked", "current_delay_days": 6},
+    "RT-06": {"origin": "Pune Hub", "destination": "WH-MUM", "mode": "rail", "carrier": "Konkan Rail Freight", "transit_days": 2, "cost_per_shipment": 650, "cost_per_unit": 1.0, "status": "open", "current_delay_days": 0}
+  }
+}

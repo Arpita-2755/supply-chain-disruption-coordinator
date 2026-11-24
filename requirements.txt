@@ -1,0 +1,8 @@
+semantic-kernel>=1.20
+python-dotenv>=1.0
+pytest>=8.0
+jupyter
+nbconvert
+nbformat
+ipykernel
+matplotlib>=3.8

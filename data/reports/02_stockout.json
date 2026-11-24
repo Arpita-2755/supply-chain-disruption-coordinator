@@ -1,0 +1,6 @@
+{
+  "report_id": "DR-2026-1102",
+  "scenario": "stockout",
+  "source": "Warehouse management system alert",
+  "text": "STOCKOUT ALERT: ITM-004 (aluminium frames) has hit zero on-hand at WH-MUM after a large dealer order. Assembly line needs frames within 6 days."
+}

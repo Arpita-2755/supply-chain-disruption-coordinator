@@ -1,0 +1,25 @@
+{
+  "_about": "Who to notify. Roles are looked up by the CoordinatorAgent's lookup_contacts tool.",
+  "procurement": {"name": "Procurement Desk", "email": "procurement@voltride.example"},
+  "customer_service": {"name": "Customer Service Lead", "email": "cs@voltride.example"},
+  "escalation": {"name": "Supply Chain Duty Manager (human)", "email": "duty.manager@voltride.example"},
+  "warehouse_managers": {
+    "WH-DEL": {"name": "Warehouse Manager, Delhi", "email": "wm.delhi@voltride.example"},
+    "WH-MUM": {"name": "Warehouse Manager, Mumbai", "email": "wm.mumbai@voltride.example"},
+    "WH-BLR": {"name": "Warehouse Manager, Bengaluru", "email": "wm.bengaluru@voltride.example"},
+    "WH-KOL": {"name": "Warehouse Manager, Kolkata", "email": "wm.kolkata@voltride.example"}
+  },
+  "suppliers": {
+    "SUP-01": {"name": "Apex Components account manager", "email": "orders@apex.example"},
+    "SUP-02": {"name": "Bharat Metals sales desk", "email": "sales@bharatmetals.example"},
+    "SUP-03": {"name": "Volta Energy order desk", "email": "orders@volta.example"},
+    "SUP-04": {"name": "Nordic Drive Systems sales", "email": "sales@nordicdrive.example"},
+    "SUP-05": {"name": "Coastal Rubber and Parts dispatch", "email": "dispatch@coastalrubber.example"}
+  },
+  "logistics_partners": {
+    "SwiftHaul Logistics": {"name": "SwiftHaul control tower", "email": "ops@swifthaul.example"},
+    "BlueDart Air Cargo": {"name": "BlueDart cargo desk", "email": "cargo@bluedart.example"},
+    "Western Roadways": {"name": "Western Roadways dispatch", "email": "dispatch@westernroadways.example"},
+    "Konkan Rail Freight": {"name": "Konkan Rail freight booking", "email": "booking@konkanrail.example"}
+  }
+}

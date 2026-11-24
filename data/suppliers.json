@@ -1,0 +1,26 @@
+{
+  "_about": "Suppliers, the items each can supply, lead time (days to deliver to any site) and unit price in USD.",
+  "suppliers": {
+    "SUP-01": {"name": "Apex Components", "city": "Shenzhen", "order_fee": 400,
+               "catalog": {"ITM-001": {"lead_time_days": 14, "unit_price": 180},
+                           "ITM-003": {"lead_time_days": 14, "unit_price": 60},
+                           "ITM-008": {"lead_time_days": 20, "unit_price": 25}}},
+    "SUP-02": {"name": "Bharat Metals", "city": "Pune", "order_fee": 150,
+               "catalog": {"ITM-002": {"lead_time_days": 6, "unit_price": 95},
+                           "ITM-004": {"lead_time_days": 12, "unit_price": 70},
+                           "ITM-007": {"lead_time_days": 5, "unit_price": 14}}},
+    "SUP-03": {"name": "Volta Energy", "city": "Chennai", "order_fee": 250,
+               "catalog": {"ITM-001": {"lead_time_days": 4, "unit_price": 205},
+                           "ITM-003": {"lead_time_days": 6, "unit_price": 66},
+                           "ITM-005": {"lead_time_days": 5, "unit_price": 35}}},
+    "SUP-04": {"name": "Nordic Drive Systems", "city": "Bengaluru", "order_fee": 200,
+               "catalog": {"ITM-002": {"lead_time_days": 7, "unit_price": 101},
+                           "ITM-004": {"lead_time_days": 4, "unit_price": 82},
+                           "ITM-005": {"lead_time_days": 9, "unit_price": 31},
+                           "ITM-006": {"lead_time_days": 5, "unit_price": 40}}},
+    "SUP-05": {"name": "Coastal Rubber & Parts", "city": "Kolkata", "order_fee": 150,
+               "catalog": {"ITM-001": {"lead_time_days": 12, "unit_price": 170},
+                           "ITM-005": {"lead_time_days": 3, "unit_price": 39},
+                           "ITM-007": {"lead_time_days": 3, "unit_price": 15}}}
+  }
+}

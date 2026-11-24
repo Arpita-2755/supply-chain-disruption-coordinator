@@ -1,0 +1,6 @@
+{
+  "report_id": "DR-2026-1106",
+  "scenario": "minor_delay_hold",
+  "source": "Store supervisor message",
+  "text": "SUPPLIER DELAY (possible stockout): Bharat Metals (SUP-02) says the next batch of ITM-002 motors for WH-BLR is delayed by 2 days. Supervisor worries about running out. Orders due in 10 days."
+}

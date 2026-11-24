@@ -1,0 +1,6 @@
+{
+  "report_id": "DR-2026-1101",
+  "scenario": "supplier_delay",
+  "source": "Supplier email to procurement",
+  "text": "SUPPLIER DELAY: Apex Components (SUP-01) informs that the shipment of ITM-001 (48V battery packs) for WH-DEL is delayed by 10 days due to a cell shortage at their plant. Customer orders for these packs are due in 7 days."
+}

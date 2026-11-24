@@ -1,0 +1,6 @@
+{
+  "report_id": "DR-2026-1104",
+  "scenario": "missing_data_failure",
+  "source": "Production planner phone call (transcribed)",
+  "text": "STOCKOUT: planner at WH-BLR says firmware chips ITM-008 are running out and the line stops in 3 days. Note: the WMS stock sync for WH-BLR failed last night, so system stock figures may be unavailable."
+}

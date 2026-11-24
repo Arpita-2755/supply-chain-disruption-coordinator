@@ -1,0 +1,9 @@
+{
+  "_about": "Warehouses (sites) in the distribution network.",
+  "sites": {
+    "WH-DEL": {"name": "Delhi Warehouse", "city": "Delhi"},
+    "WH-MUM": {"name": "Mumbai Warehouse", "city": "Mumbai"},
+    "WH-BLR": {"name": "Bengaluru Warehouse", "city": "Bengaluru"},
+    "WH-KOL": {"name": "Kolkata Warehouse", "city": "Kolkata"}
+  }
+}

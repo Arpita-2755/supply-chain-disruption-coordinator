@@ -1,0 +1,13 @@
+{
+  "_about": "Product catalogue for VoltRide (a fictional e-bike assembler). Costs in USD.",
+  "items": {
+    "ITM-001": {"name": "Li-ion battery pack 48V", "unit_cost": 180, "daily_demand": 20, "primary_supplier": "SUP-01", "stockout_penalty_per_unit": 45},
+    "ITM-002": {"name": "Brushless DC motor 750W", "unit_cost": 95, "daily_demand": 15, "primary_supplier": "SUP-02", "stockout_penalty_per_unit": 30},
+    "ITM-003": {"name": "Motor controller board", "unit_cost": 60, "daily_demand": 25, "primary_supplier": "SUP-01", "stockout_penalty_per_unit": 20},
+    "ITM-004": {"name": "Aluminium bicycle frame", "unit_cost": 70, "daily_demand": 18, "primary_supplier": "SUP-02", "stockout_penalty_per_unit": 25},
+    "ITM-005": {"name": "Hydraulic disc brake set", "unit_cost": 35, "daily_demand": 30, "primary_supplier": "SUP-03", "stockout_penalty_per_unit": 12},
+    "ITM-006": {"name": "LCD display unit", "unit_cost": 40, "daily_demand": 22, "primary_supplier": "SUP-04", "stockout_penalty_per_unit": 15},
+    "ITM-007": {"name": "Tyre 27.5 inch", "unit_cost": 15, "daily_demand": 40, "primary_supplier": "SUP-02", "stockout_penalty_per_unit": 6},
+    "ITM-008": {"name": "Custom firmware chip (sole-source)", "unit_cost": 25, "daily_demand": 12, "primary_supplier": "SUP-01", "stockout_penalty_per_unit": 40}
+  }
+}
